@@ -1,0 +1,4 @@
+cron:
+- description: "getTextFile"
+  url: /task/convert
+  schedule: every 2 hours
